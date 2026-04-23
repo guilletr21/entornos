@@ -16,4 +16,4 @@ if (b == 0) {
 return a / b;
 }
 }
-
+// Esta clase define una calculadora básica con métodos para sumar, restar y dividir dos números enteros. El método de división incluye una verificación para evitar la división por cero, lanzando una excepción si se intenta realizar esta operación.
